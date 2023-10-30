@@ -1,0 +1,7 @@
+Base de datos:     postgresql
+Nombre de usuario: WilmerMoreno
+Contraseña:        root
+Hostname:          localhost
+port:              3006
+Nombre db:         Prueba
+DATABASE_URL="postgresql://WilmerMoreno:root@localhost:3006/Prueba?schema=public"
